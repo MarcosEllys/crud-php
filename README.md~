@@ -1,0 +1,8 @@
+Angular Crud
+======================
+
+A small CRUD application using AngularJS and Slim PHP framework.
+
+Requirements:
+  * <a href="https://www.mysql.com/">Mysql</a>
+  * <a href="http://php.net/manual/pt_BR/ref.pdo-mysql.php">PDO Mysql driver</a>
