@@ -3,7 +3,6 @@ require_once 'config/conexao.php';
 require_once 'config/pessoa.php';
 
 $con = new conexao(); // instancia classe de conxao
-$con->connect(); // abre conexao com o banco
 
 $result = $con->connect()->query("SELECT * FROM pessoa");
 ?>
